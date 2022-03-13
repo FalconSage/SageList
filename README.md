@@ -16,3 +16,6 @@ And then start the server (default: http://localhost:8000)
     python manage.py runserver
 
 
+# Future
+
+We are working on making SageList standalone.
