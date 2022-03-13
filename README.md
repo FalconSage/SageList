@@ -1,6 +1,6 @@
-# Django-Todolist
+# SageList
 
-Django-Todolist is a todolist web application with the most basic features of most web apps, i.e. accounts/login, API and (somewhat) interactive UI.
+SageList is a todolist web application with the most basic features of most web apps, i.e. accounts/login, API and (somewhat) interactive UI.
 
 ## Explore
 Try it out by installing the requirements. (Works only with python >= 3.8, due to Django 4)
