@@ -19,3 +19,5 @@ And then start the server (default: http://localhost:8000)
 # Future
 
 We are working on making SageList standalone.
+
+It will mostly be a repl-hosted link
